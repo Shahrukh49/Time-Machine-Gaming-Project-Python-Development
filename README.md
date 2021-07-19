@@ -4,7 +4,7 @@ Project contains Raspberry Pi as its main Development board, the project has exa
 animation from the film “Back to the Future 2002”, the client demanded exact replica of that time 
 machine. Based on specific number a physical gate has to be opened, project contains Distance 
 Sensors to measure the standing position of players. The sensors measure data according to the 
-standing position of players and based on that it updates values in UI. If that value machine the 
+standing position of players and based on that it updates values in UI. If that value matches the 
 desired value a gate is opened.
 
 # main.py
