@@ -7,6 +7,8 @@ Sensors to measure the standing position of players. The sensors measure data ac
 standing position of players and based on that it updates values in UI. If that value machine the 
 desired value a gate is opened.
 
+# main.py
+Coding can be run through main.py with all images in same folder
 
 # Final Product
 ![FINAL PRODUCT](https://user-images.githubusercontent.com/34818652/126151095-57679190-96c0-4c2d-ac79-e87a3251d7ff.jpg)
