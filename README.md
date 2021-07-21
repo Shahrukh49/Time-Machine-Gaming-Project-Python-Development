@@ -8,7 +8,7 @@ standing position of players and based on that it updates values in UI. If that 
 desired value a gate is opened.
 
 # Requirements
-1) Pygame
+1) Pygame Library
 2) Raspberry Pi
 3) Ultrasonic Sensor x4
 
